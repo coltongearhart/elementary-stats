@@ -1,6 +1,13 @@
 # Main Content {.unnumbered}
 
-This part contains the main content for several introductory statistics courses similar to elementary statistics.
+Content
 
-Additional topics are given in the second part.
+- This part contains the main content for several introductory statistics courses similar to elementary statistics.
 
+- Additional topics are given in the second part.
+
+Assessments
+
+- Just quizzes are given here.
+
+- Instructors can contact me for quiz solutions and tests :)
