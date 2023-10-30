@@ -1,0 +1,22 @@
+# Numerical Summaries
+
+## Measures of Center
+
+FILE: [measures-of-center.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/measures-of-center.pptx)
+
+<embed src="slides/measures-of-center.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Measures of Variation and Relative Position
+
+FILE: [measures-of-variation-and-relative-position.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/measures-of-variation-and-relative-position.pptx)
+
+<embed src="slides/measures-of-variation-and-relative-position.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Quiz
+
+FILE: [unit3-quiz.docx](https://github.com/coltongearhart/elementary-stats/blob/main/quizzes/unit3-quiz.docx)
+
+-   *NOTE*: Instructors can contact me for keys :)
+
+<embed src="quizzes/unit3-quiz.pdf" type="application/pdf" width="100%" height="500px"></embed>
+

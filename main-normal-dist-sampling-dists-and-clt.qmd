@@ -1,0 +1,22 @@
+# Normal Distribution, Sampling Distributions, and the CLT
+
+## Normal Distribution
+
+FILE: [normal-distribution.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/normal-distribution.pptx)
+
+<embed src="slides/normal-distribution.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Sampling Distributions and the CLT
+
+FILE: [sampling-distribution-and-clt.pptx](https://github.com/coltongearhart/dana320/blob/main/sampling-distribution-and-clt.pptx)
+
+<embed src="slides/sampling-distribution-and-clt.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Quiz
+
+FILE: [unit6-quiz.docx](https://github.com/coltongearhart/elementary-stats/blob/main/quizzes/unit6-quiz.docx)
+
+-   *NOTE*: Instructors can contact me for keys :)
+
+<embed src="quizzes/unit6-quiz.pdf" type="application/pdf" width="100%" height="500px"></embed>
+

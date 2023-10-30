@@ -1,0 +1,27 @@
+# Overview {.unnumbered}
+
+- Below is the course overview and calendar.
+
+    - *NOTE* this class was taught for an 11-week summer semester.
+
+- FILE: [stat1400-course-calendar-and-overview-su22.xlsx](https://github.com/coltongearhart/elementary-stats/blob/main/intro/stat1400-course-calendar-and-overview-su22.xlsx)
+
+    - This spreadsheet is used to make the course calendar and assignment due dates.
+    
+![](intro/stat1400-course-overview-su22.png){fig-align="left"}
+
+![](intro/stat1400-course-calendar-su22.png){fig-align="left"}
+
+## Source
+
+::: callout-note
+## Quarto blog publish details
+
+This book was created using [Quarto](https://quarto.org/) and published with Github Pages.
+:::
+
+::: callout-tip
+## Github repository for code
+
+You can find the code to reproduce this project at [coltongearhart/elementary-stats](https://github.com/coltongearhart/elementary-stats).
+:::

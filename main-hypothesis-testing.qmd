@@ -1,0 +1,22 @@
+# Hypothesis Testing
+
+## Hypothesis Testing -- Introduction and Proportions
+
+FILE: [hypothesis-testing-intro-and-proportions.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/hypothesis-testing-intro-and-proportions.pptx)
+
+<embed src="slides/hypothesis-testing-intro-and-proportions.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Hypothesis Testing -- Means
+
+FILE: [hypothesis-testing-means.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/hypothesis-testing-means.pptx)
+
+<embed src="slides/hypothesis-testing-means.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Quiz
+
+FILE: [unit8-quiz.docx](https://github.com/coltongearhart/elementary-stats/blob/main/quizzes/uni8-quiz.docx)
+
+-   *NOTE*: Instructors can contact me for keys :)
+
+<embed src="quizzes/unit8-quiz.pdf" type="application/pdf" width="100%" height="500px"></embed>
+

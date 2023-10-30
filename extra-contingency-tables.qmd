@@ -1,0 +1,16 @@
+# Contingency Tables
+
+## Contingency Tables
+
+FILE: [contingency-tables.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/contingency-tables.pptx)
+
+<embed src="slides/contingency-tables.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Quiz
+
+FILE: [unit10-2-quiz.docx](https://github.com/coltongearhart/elementary-stats/blob/main/quizzes/uni10-2-quiz.docx)
+
+-   *NOTE*: Instructors can contact me for keys :)
+
+<embed src="quizzes/unit10-2-quiz.pdf" type="application/pdf" width="100%" height="500px"></embed>
+

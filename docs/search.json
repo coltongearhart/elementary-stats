@@ -1,0 +1,589 @@
+[
+  {
+    "objectID": "main-forecasting.html#forecasting",
+    "href": "main-forecasting.html#forecasting",
+    "title": "10  Forecasting",
+    "section": "10.1 Forecasting",
+    "text": "10.1 Forecasting\nFILE: forecasting.pptx",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Forecasting</span>"
+    ]
+  },
+  {
+    "objectID": "main-forecasting.html#quiz",
+    "href": "main-forecasting.html#quiz",
+    "title": "10  Forecasting",
+    "section": "10.2 Quiz",
+    "text": "10.2 Quiz\nFILE: units-9-and-10-quiz.docx\n\nNOTE: Instructors can contact me for keys :)",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Forecasting</span>"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#statistical-concepts-for-business",
+    "href": "syllabus.html#statistical-concepts-for-business",
+    "title": "Syllabus",
+    "section": "Statistical Concepts for Business",
+    "text": "Statistical Concepts for Business\nFILE: stat1400-syllabus-su22.docx",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#the-practice-of-statistics",
+    "href": "syllabus.html#the-practice-of-statistics",
+    "title": "Syllabus",
+    "section": "The Practice of Statistics",
+    "text": "The Practice of Statistics\nFILE: stat1450-syllabus-sp22.docx",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#elementary-statistics",
+    "href": "syllabus.html#elementary-statistics",
+    "title": "Syllabus",
+    "section": "Elementary Statistics",
+    "text": "Elementary Statistics\nFILE: stat1350-syllabus-sp22.docx",
+    "crumbs": [
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Elementary Statistics",
+    "section": "",
+    "text": "Overview",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#source",
+    "href": "index.html#source",
+    "title": "Elementary Statistics",
+    "section": "Source",
+    "text": "Source\n\n\n\n\n\n\nQuarto blog publish details\n\n\n\nThis book was created using Quarto and published with Github Pages.\n\n\n\n\n\n\n\n\nGithub repository for code\n\n\n\nYou can find the code to reproduce this project at coltongearhart/elementary-stats.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "content-main.html",
+    "href": "content-main.html",
+    "title": "Main Content",
+    "section": "",
+    "text": "This part contains the main content for several introductory statistics courses similar to elementary statistics.\nAdditional topics are given in the second part.",
+    "crumbs": [
+      "Main Content"
+    ]
+  },
+  {
+    "objectID": "main-basic-ideas.html#introduction-to-statistics-and-data-collection-methods",
+    "href": "main-basic-ideas.html#introduction-to-statistics-and-data-collection-methods",
+    "title": "1  Basic Ideas",
+    "section": "1.1 Introduction to Statistics and Data Collection Methods",
+    "text": "1.1 Introduction to Statistics and Data Collection Methods\nFILE: intro-to-stats-and-data-collection-methods.pptx",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Basic Ideas</span>"
+    ]
+  },
+  {
+    "objectID": "main-basic-ideas.html#data-classification",
+    "href": "main-basic-ideas.html#data-classification",
+    "title": "1  Basic Ideas",
+    "section": "1.2 Data Classification",
+    "text": "1.2 Data Classification\nFILE: data-classification.pptx",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Basic Ideas</span>"
+    ]
+  },
+  {
+    "objectID": "main-basic-ideas.html#quiz",
+    "href": "main-basic-ideas.html#quiz",
+    "title": "1  Basic Ideas",
+    "section": "1.3 Quiz",
+    "text": "1.3 Quiz\nFILE: unit1-quiz.docx\n\nNOTE: Instructors can contact me for keys :)",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Basic Ideas</span>"
+    ]
+  },
+  {
+    "objectID": "main-graphical-summaries.html#graphical-summareis-quantitative-data",
+    "href": "main-graphical-summaries.html#graphical-summareis-quantitative-data",
+    "title": "2  Graphical Summaries",
+    "section": "2.1 Graphical Summareis – Quantitative Data",
+    "text": "2.1 Graphical Summareis – Quantitative Data\nFILE: graphical-summaries-quantitative-data.pptx",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Graphical Summaries</span>"
+    ]
+  },
+  {
+    "objectID": "main-graphical-summaries.html#graphical-summareis-qualitative-data",
+    "href": "main-graphical-summaries.html#graphical-summareis-qualitative-data",
+    "title": "2  Graphical Summaries",
+    "section": "2.2 Graphical Summareis – Qualitative Data",
+    "text": "2.2 Graphical Summareis – Qualitative Data\nFILE: graphical-summaries-qualitative-data.pptx",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Graphical Summaries</span>"
+    ]
+  },
+  {
+    "objectID": "main-graphical-summaries.html#entering-data-and-boxplots",
+    "href": "main-graphical-summaries.html#entering-data-and-boxplots",
+    "title": "2  Graphical Summaries",
+    "section": "2.3 Entering Data and Boxplots",
+    "text": "2.3 Entering Data and Boxplots\nFILE: entering-data-and-boxplots.pptx",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Graphical Summaries</span>"
+    ]
+  },
+  {
+    "objectID": "main-graphical-summaries.html#quiz",
+    "href": "main-graphical-summaries.html#quiz",
+    "title": "2  Graphical Summaries",
+    "section": "2.4 Quiz",
+    "text": "2.4 Quiz\nFILE: unit2-quiz.docx\n\nNOTE: Instructors can contact me for keys :)",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Graphical Summaries</span>"
+    ]
+  },
+  {
+    "objectID": "main-numerical-summaries.html#measures-of-center",
+    "href": "main-numerical-summaries.html#measures-of-center",
+    "title": "3  Numerical Summaries",
+    "section": "3.1 Measures of Center",
+    "text": "3.1 Measures of Center\nFILE: measures-of-center.pptx",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Numerical Summaries</span>"
+    ]
+  },
+  {
+    "objectID": "main-numerical-summaries.html#measures-of-variation-and-relative-position",
+    "href": "main-numerical-summaries.html#measures-of-variation-and-relative-position",
+    "title": "3  Numerical Summaries",
+    "section": "3.2 Measures of Variation and Relative Position",
+    "text": "3.2 Measures of Variation and Relative Position\nFILE: measures-of-variation-and-relative-position.pptx",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Numerical Summaries</span>"
+    ]
+  },
+  {
+    "objectID": "main-numerical-summaries.html#quiz",
+    "href": "main-numerical-summaries.html#quiz",
+    "title": "3  Numerical Summaries",
+    "section": "3.3 Quiz",
+    "text": "3.3 Quiz\nFILE: unit3-quiz.docx\n\nNOTE: Instructors can contact me for keys :)",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Numerical Summaries</span>"
+    ]
+  },
+  {
+    "objectID": "main-probability.html#probability",
+    "href": "main-probability.html#probability",
+    "title": "4  Probability",
+    "section": "4.1 Probability",
+    "text": "4.1 Probability\nFILE: probability.pptx",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Probability</span>"
+    ]
+  },
+  {
+    "objectID": "main-probability.html#probability-2",
+    "href": "main-probability.html#probability-2",
+    "title": "4  Probability",
+    "section": "4.2 Probability 2",
+    "text": "4.2 Probability 2\nFILE: probability-2.pptx",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Probability</span>"
+    ]
+  },
+  {
+    "objectID": "main-probability.html#quiz",
+    "href": "main-probability.html#quiz",
+    "title": "4  Probability",
+    "section": "4.3 Quiz",
+    "text": "4.3 Quiz\nFILE: unit4-quiz.docx\n\nNOTE: Instructors can contact me for keys :)",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Probability</span>"
+    ]
+  },
+  {
+    "objectID": "main-discrete-probability-distributions.html#discrete-probability-distributions",
+    "href": "main-discrete-probability-distributions.html#discrete-probability-distributions",
+    "title": "5  Discrete Probability Distributions",
+    "section": "5.1 Discrete Probability Distributions",
+    "text": "5.1 Discrete Probability Distributions\nFILE: discrete-probability-distributions.pptx",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Discrete Probability Distributions</span>"
+    ]
+  },
+  {
+    "objectID": "main-discrete-probability-distributions.html#binomial-distributions",
+    "href": "main-discrete-probability-distributions.html#binomial-distributions",
+    "title": "5  Discrete Probability Distributions",
+    "section": "5.2 Binomial Distributions",
+    "text": "5.2 Binomial Distributions\nFILE: binomial-distributions.pptx",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Discrete Probability Distributions</span>"
+    ]
+  },
+  {
+    "objectID": "main-discrete-probability-distributions.html#quiz",
+    "href": "main-discrete-probability-distributions.html#quiz",
+    "title": "5  Discrete Probability Distributions",
+    "section": "5.3 Quiz",
+    "text": "5.3 Quiz\nFILE: unit5-quiz.docx\n\nNOTE: Instructors can contact me for keys :)",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Discrete Probability Distributions</span>"
+    ]
+  },
+  {
+    "objectID": "main-normal-dist-sampling-dists-and-clt.html#normal-distribution",
+    "href": "main-normal-dist-sampling-dists-and-clt.html#normal-distribution",
+    "title": "6  Normal Distribution, Sampling Distributions, and the CLT",
+    "section": "6.1 Normal Distribution",
+    "text": "6.1 Normal Distribution\nFILE: normal-distribution.pptx",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Normal Distribution, Sampling Distributions, and the CLT</span>"
+    ]
+  },
+  {
+    "objectID": "main-normal-dist-sampling-dists-and-clt.html#sampling-distributions-and-the-clt",
+    "href": "main-normal-dist-sampling-dists-and-clt.html#sampling-distributions-and-the-clt",
+    "title": "6  Normal Distribution, Sampling Distributions, and the CLT",
+    "section": "6.2 Sampling Distributions and the CLT",
+    "text": "6.2 Sampling Distributions and the CLT\nFILE: sampling-distribution-and-clt.pptx",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Normal Distribution, Sampling Distributions, and the CLT</span>"
+    ]
+  },
+  {
+    "objectID": "main-normal-dist-sampling-dists-and-clt.html#quiz",
+    "href": "main-normal-dist-sampling-dists-and-clt.html#quiz",
+    "title": "6  Normal Distribution, Sampling Distributions, and the CLT",
+    "section": "6.3 Quiz",
+    "text": "6.3 Quiz\nFILE: unit6-quiz.docx\n\nNOTE: Instructors can contact me for keys :)",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Normal Distribution, Sampling Distributions, and the CLT</span>"
+    ]
+  },
+  {
+    "objectID": "main-confidence-interval-estimates.html#confidence-intervals-introduction-and-proportions",
+    "href": "main-confidence-interval-estimates.html#confidence-intervals-introduction-and-proportions",
+    "title": "7  Confidence Interval Estimates",
+    "section": "7.1 Confidence Intervals – Introduction and Proportions",
+    "text": "7.1 Confidence Intervals – Introduction and Proportions\nFILE: confidence-intervals-intro-and-proportions.pptx",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Confidence Interval Estimates</span>"
+    ]
+  },
+  {
+    "objectID": "main-confidence-interval-estimates.html#confidence-intervals-means",
+    "href": "main-confidence-interval-estimates.html#confidence-intervals-means",
+    "title": "7  Confidence Interval Estimates",
+    "section": "7.2 Confidence Intervals – Means",
+    "text": "7.2 Confidence Intervals – Means\nFILE: confidence-intervals-means.pptx",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Confidence Interval Estimates</span>"
+    ]
+  },
+  {
+    "objectID": "main-confidence-interval-estimates.html#quiz",
+    "href": "main-confidence-interval-estimates.html#quiz",
+    "title": "7  Confidence Interval Estimates",
+    "section": "7.3 Quiz",
+    "text": "7.3 Quiz\nFILE: unit7-quiz.docx\n\nNOTE: Instructors can contact me for keys :)",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Confidence Interval Estimates</span>"
+    ]
+  },
+  {
+    "objectID": "main-hypothesis-testing.html#hypothesis-testing-introduction-and-proportions",
+    "href": "main-hypothesis-testing.html#hypothesis-testing-introduction-and-proportions",
+    "title": "8  Hypothesis Testing",
+    "section": "8.1 Hypothesis Testing – Introduction and Proportions",
+    "text": "8.1 Hypothesis Testing – Introduction and Proportions\nFILE: hypothesis-testing-intro-and-proportions.pptx",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Hypothesis Testing</span>"
+    ]
+  },
+  {
+    "objectID": "main-hypothesis-testing.html#hypothesis-testing-means",
+    "href": "main-hypothesis-testing.html#hypothesis-testing-means",
+    "title": "8  Hypothesis Testing",
+    "section": "8.2 Hypothesis Testing – Means",
+    "text": "8.2 Hypothesis Testing – Means\nFILE: hypothesis-testing-means.pptx",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Hypothesis Testing</span>"
+    ]
+  },
+  {
+    "objectID": "main-hypothesis-testing.html#quiz",
+    "href": "main-hypothesis-testing.html#quiz",
+    "title": "8  Hypothesis Testing",
+    "section": "8.3 Quiz",
+    "text": "8.3 Quiz\nFILE: unit8-quiz.docx\n\nNOTE: Instructors can contact me for keys :)",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Hypothesis Testing</span>"
+    ]
+  },
+  {
+    "objectID": "main-correlation-and-regression.html#correlation-and-regression",
+    "href": "main-correlation-and-regression.html#correlation-and-regression",
+    "title": "9  Correlation and Regression",
+    "section": "9.1 Correlation and Regression",
+    "text": "9.1 Correlation and Regression\nFILE: correlation-and-regression.pptx",
+    "crumbs": [
+      "Main Content",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Correlation and Regression</span>"
+    ]
+  },
+  {
+    "objectID": "content-extra.html",
+    "href": "content-extra.html",
+    "title": "Extra Content",
+    "section": "",
+    "text": "This part contains additional topics (or differently covered topics) that can be optionally included or interchanged based on the context of the specific course.\n\nExamples include: Experiments, simulation, assumption checking for inference, etc.",
+    "crumbs": [
+      "Extra Content"
+    ]
+  },
+  {
+    "objectID": "extra-confidence-interval-and-sample-size.html#confidence-intervals-and-sample-size-proportions",
+    "href": "extra-confidence-interval-and-sample-size.html#confidence-intervals-and-sample-size-proportions",
+    "title": "11  Confidence Interval Estimates with Assumption Checking",
+    "section": "11.1 Confidence Intervals and Sample Size – Proportions",
+    "text": "11.1 Confidence Intervals and Sample Size – Proportions\nFILE: confidence-intrervals-and-sample-size-proportions.pptx",
+    "crumbs": [
+      "Extra Content",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Confidence Interval Estimates with Assumption Checking</span>"
+    ]
+  },
+  {
+    "objectID": "extra-confidence-interval-and-sample-size.html#confidence-intervals-and-sample-size-means",
+    "href": "extra-confidence-interval-and-sample-size.html#confidence-intervals-and-sample-size-means",
+    "title": "11  Confidence Interval Estimates with Assumption Checking",
+    "section": "11.2 Confidence Intervals and Sample Size – Means",
+    "text": "11.2 Confidence Intervals and Sample Size – Means\nFILE: confidence-intervals-and-sample-size-means.pptx",
+    "crumbs": [
+      "Extra Content",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Confidence Interval Estimates with Assumption Checking</span>"
+    ]
+  },
+  {
+    "objectID": "extra-confidence-interval-and-sample-size.html#quiz",
+    "href": "extra-confidence-interval-and-sample-size.html#quiz",
+    "title": "11  Confidence Interval Estimates with Assumption Checking",
+    "section": "11.3 Quiz",
+    "text": "11.3 Quiz\nFILE: unit7-2-quiz.docx\n\nNOTE: Instructors can contact me for keys :)",
+    "crumbs": [
+      "Extra Content",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Confidence Interval Estimates with Assumption Checking</span>"
+    ]
+  },
+  {
+    "objectID": "extra-hypothesis-testing.html#hypothesis-testing-introduction-and-proportions",
+    "href": "extra-hypothesis-testing.html#hypothesis-testing-introduction-and-proportions",
+    "title": "12  Hypothesis Testing with Assumption Checking",
+    "section": "12.1 Hypothesis Testing – Introduction and Proportions",
+    "text": "12.1 Hypothesis Testing – Introduction and Proportions\nFILE: hypothesis-testing-intro-and-proportions-2.pptx",
+    "crumbs": [
+      "Extra Content",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Hypothesis Testing with Assumption Checking</span>"
+    ]
+  },
+  {
+    "objectID": "extra-hypothesis-testing.html#hypothesis-testing-means",
+    "href": "extra-hypothesis-testing.html#hypothesis-testing-means",
+    "title": "12  Hypothesis Testing with Assumption Checking",
+    "section": "12.2 Hypothesis Testing – Means",
+    "text": "12.2 Hypothesis Testing – Means\nFILE: hypothesis-testing-means-2.pptx",
+    "crumbs": [
+      "Extra Content",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Hypothesis Testing with Assumption Checking</span>"
+    ]
+  },
+  {
+    "objectID": "extra-hypothesis-testing.html#quiz",
+    "href": "extra-hypothesis-testing.html#quiz",
+    "title": "12  Hypothesis Testing with Assumption Checking",
+    "section": "12.3 Quiz",
+    "text": "12.3 Quiz\nFILE: unit8-2-quiz.docx\n\nNOTE: Instructors can contact me for keys :)",
+    "crumbs": [
+      "Extra Content",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Hypothesis Testing with Assumption Checking</span>"
+    ]
+  },
+  {
+    "objectID": "extra-inferences-two-samples.html#inferences-from-two-samples",
+    "href": "extra-inferences-two-samples.html#inferences-from-two-samples",
+    "title": "13  Inferences from Two Samples",
+    "section": "13.1 Inferences from Two Samples",
+    "text": "13.1 Inferences from Two Samples\nFILE: inferences-two-samples.pptx",
+    "crumbs": [
+      "Extra Content",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Inferences from Two Samples</span>"
+    ]
+  },
+  {
+    "objectID": "extra-inferences-two-samples.html#inferences-dependent-samples",
+    "href": "extra-inferences-two-samples.html#inferences-dependent-samples",
+    "title": "13  Inferences from Two Samples",
+    "section": "13.2 Inferences Dependent Samples",
+    "text": "13.2 Inferences Dependent Samples\nFILE: inferences-dependent-samples.pptx",
+    "crumbs": [
+      "Extra Content",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Inferences from Two Samples</span>"
+    ]
+  },
+  {
+    "objectID": "extra-inferences-two-samples.html#quiz",
+    "href": "extra-inferences-two-samples.html#quiz",
+    "title": "13  Inferences from Two Samples",
+    "section": "13.3 Quiz",
+    "text": "13.3 Quiz\nFILE: unit9-2-quiz.docx\n\nNOTE: Instructors can contact me for keys :)",
+    "crumbs": [
+      "Extra Content",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Inferences from Two Samples</span>"
+    ]
+  },
+  {
+    "objectID": "extra-contingency-tables.html#contingency-tables",
+    "href": "extra-contingency-tables.html#contingency-tables",
+    "title": "14  Contingency Tables",
+    "section": "14.1 Contingency Tables",
+    "text": "14.1 Contingency Tables\nFILE: contingency-tables.pptx",
+    "crumbs": [
+      "Extra Content",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Contingency Tables</span>"
+    ]
+  },
+  {
+    "objectID": "extra-contingency-tables.html#quiz",
+    "href": "extra-contingency-tables.html#quiz",
+    "title": "14  Contingency Tables",
+    "section": "14.2 Quiz",
+    "text": "14.2 Quiz\nFILE: unit10-2-quiz.docx\n\nNOTE: Instructors can contact me for keys :)",
+    "crumbs": [
+      "Extra Content",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Contingency Tables</span>"
+    ]
+  },
+  {
+    "objectID": "extra-correlation-and-regression.html#scatterplots-and-correlation",
+    "href": "extra-correlation-and-regression.html#scatterplots-and-correlation",
+    "title": "15  Correlation and Regression",
+    "section": "15.1 Scatterplots and Correlation",
+    "text": "15.1 Scatterplots and Correlation\nFILE: scatterplots-and-correlation.pptx",
+    "crumbs": [
+      "Extra Content",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Correlation and Regression</span>"
+    ]
+  },
+  {
+    "objectID": "extra-correlation-and-regression.html#regression",
+    "href": "extra-correlation-and-regression.html#regression",
+    "title": "15  Correlation and Regression",
+    "section": "15.2 Regression",
+    "text": "15.2 Regression\nFILE: regression.pptx",
+    "crumbs": [
+      "Extra Content",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Correlation and Regression</span>"
+    ]
+  },
+  {
+    "objectID": "extra-correlation-and-regression.html#quiz",
+    "href": "extra-correlation-and-regression.html#quiz",
+    "title": "15  Correlation and Regression",
+    "section": "15.3 Quiz",
+    "text": "15.3 Quiz\nFILE: unit11-quiz.docx\n\nNOTE: Instructors can contact me for keys :)",
+    "crumbs": [
+      "Extra Content",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Correlation and Regression</span>"
+    ]
+  },
+  {
+    "objectID": "extra-simulation.html#simulation",
+    "href": "extra-simulation.html#simulation",
+    "title": "16  Simulation",
+    "section": "16.1 Simulation",
+    "text": "16.1 Simulation\nFILE: simulation.pptx",
+    "crumbs": [
+      "Extra Content",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Simulation</span>"
+    ]
+  },
+  {
+    "objectID": "extra-data-ethics-and-measurement.html#data-ethics",
+    "href": "extra-data-ethics-and-measurement.html#data-ethics",
+    "title": "11  Data Ethics and Measurement",
+    "section": "11.1 Data Ethics",
+    "text": "11.1 Data Ethics\nFILE: data-ethics.pptx",
+    "crumbs": [
+      "Extra Content",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Ethics and Measurement</span>"
+    ]
+  },
+  {
+    "objectID": "extra-data-ethics-and-measurement.html#measurement",
+    "href": "extra-data-ethics-and-measurement.html#measurement",
+    "title": "11  Data Ethics and Measurement",
+    "section": "11.2 Measurement",
+    "text": "11.2 Measurement\nFILE: measurement.pptx",
+    "crumbs": [
+      "Extra Content",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Ethics and Measurement</span>"
+    ]
+  },
+  {
+    "objectID": "extra-data-ethics-and-measurement.html#quiz",
+    "href": "extra-data-ethics-and-measurement.html#quiz",
+    "title": "11  Data Ethics and Measurement",
+    "section": "11.3 Quiz",
+    "text": "11.3 Quiz\nFILE: unit7-2-quiz.docx\n\nNOTE: Instructors can contact me for keys :)",
+    "crumbs": [
+      "Extra Content",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Ethics and Measurement</span>"
+    ]
+  },
+  {
+    "objectID": "extra-experiments.html#experiments",
+    "href": "extra-experiments.html#experiments",
+    "title": "11  Experiments",
+    "section": "11.1 Experiments",
+    "text": "11.1 Experiments\nFILE: experiments.pptx",
+    "crumbs": [
+      "Extra Content",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Experiments</span>"
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+# Syllabus {.unnumbered}
+
+NOTE: The content for this course can be used for several different courses all related to elementary statistics. Here are a few of the applicable syllabi.
+
+## Statistical Concepts for Business
+
+FILE: [stat1400-syllabus-su22.docx](https://github.com/coltongearhart/elementary-stats/blob/main/intro/stat1400-syllabus-su22.docx)
+
+<embed src="intro/stat1400-syllabus-su22.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## The Practice of Statistics
+
+FILE: [stat1450-syllabus-sp22.docx](https://github.com/coltongearhart/elementary-stats/blob/main/intro/stat1450-syllabus-sp22.docx)
+
+<embed src="intro/stat1450-syllabus-sp22.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Elementary Statistics
+
+FILE: [stat1350-syllabus-sp22.docx](https://github.com/coltongearhart/elementary-stats/blob/main/intro/stat1350-syllabus-sp22.docx)
+
+<embed src="intro/stat1350-syllabus-sp22.pdf" type="application/pdf" width="100%" height="500px"></embed>

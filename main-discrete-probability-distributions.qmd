@@ -1,0 +1,22 @@
+# Discrete Probability Distributions
+
+## Discrete Probability Distributions
+
+FILE: [discrete-probability-distributions.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/discrete-probability-distributions.pptx)
+
+<embed src="slides/discrete-probability-distributions.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Binomial Distributions
+
+FILE: [binomial-distributions.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/binomial-distributions.pptx)
+
+<embed src="slides/binomial-distributions.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Quiz
+
+FILE: [unit5-quiz.docx](https://github.com/coltongearhart/elementary-stats/blob/main/quizzes/unit5-quiz.docx)
+
+-   *NOTE*: Instructors can contact me for keys :)
+
+<embed src="quizzes/unit5-quiz.pdf" type="application/pdf" width="100%" height="500px"></embed>
+

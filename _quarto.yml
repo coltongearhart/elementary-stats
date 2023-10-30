@@ -1,0 +1,42 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Elementary Statistics"
+  author: "Colton Gearhart"
+  date: "10-29-2023"
+  cover-image: elementary-statistics.png
+  chapters:
+    - index.qmd
+    - syllabus.qmd
+
+    - part: content-main.qmd
+      chapters:
+        - main-basic-ideas.qmd
+        - main-graphical-summaries.qmd
+        - main-numerical-summaries.qmd
+        - main-probability.qmd
+        - main-discrete-probability-distributions.qmd
+        - main-normal-dist-sampling-dists-and-clt.qmd
+        - main-confidence-interval-estimates.qmd
+        - main-hypothesis-testing.qmd
+        - main-correlation-and-regression.qmd
+        - main-forecasting.qmd
+
+    - part: content-extra.qmd
+      chapters:
+        - extra-experiments.qmd
+        - extra-data-ethics-and-measurement.qmd
+        - extra-simulation.qmd
+        - extra-confidence-interval-and-sample-size.qmd
+        - extra-hypothesis-testing.qmd
+        - extra-inferences-two-samples.qmd
+        - extra-contingency-tables.qmd
+        - extra-correlation-and-regression.qmd
+
+format:
+  html:
+    theme: flatly
+
+title-block-banner: true

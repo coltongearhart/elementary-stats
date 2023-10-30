@@ -1,0 +1,22 @@
+# Confidence Interval Estimates
+
+## Confidence Intervals -- Introduction and Proportions
+
+FILE: [confidence-intervals-intro-and-proportions.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/confidence-intervals-intro-and-proportions.pptx)
+
+<embed src="slides/confidence-intervals-intro-and-proportions.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Confidence Intervals -- Means
+
+FILE: [confidence-intervals-means.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/confidence-intervals-means.pptx)
+
+<embed src="slides/confidence-intervals-means.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Quiz
+
+FILE: [unit7-quiz.docx](https://github.com/coltongearhart/elementary-stats/blob/main/quizzes/unit7-quiz.docx)
+
+-   *NOTE*: Instructors can contact me for keys :)
+
+<embed src="quizzes/unit7-quiz.pdf" type="application/pdf" width="100%" height="500px"></embed>
+

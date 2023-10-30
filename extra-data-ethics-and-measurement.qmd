@@ -1,0 +1,13 @@
+# Data Ethics and Measurement
+
+## Data Ethics
+
+FILE: [data-ethics.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/data-ethics.pptx)
+
+<embed src="slides/data-ethics.pdf" type="application/pdf" width="100%" height="500px"></embed>
+
+## Measurement
+
+FILE: [measurement.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/measurement.pptx)
+
+<embed src="slides/measurement.pdf" type="application/pdf" width="100%" height="500px"></embed>
