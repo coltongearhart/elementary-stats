@@ -2,13 +2,13 @@
 
 ## Confidence Intervals and Sample Size -- Proportions
 
-FILE: [confidence-intrervals-and-sample-size-proportions.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/confidence-intrervals-and-sample-size-proportions.pptx)
+FILE: [confidence-intrervals-and-sample-size-proportions.pptx](https://github.com/coltongearhart/elementary-stats/blob/main/slides/confidence-intrervals-and-sample-size-proportions.pptx)
 
 <embed src="slides/confidence-intrervals-and-sample-size-proportions.pdf" type="application/pdf" width="100%" height="500px"></embed>
 
 ## Confidence Intervals and Sample Size -- Means
 
-FILE: [confidence-intervals-and-sample-size-means.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/confidence-intervals-and-sample-size-means.pptx)
+FILE: [confidence-intervals-and-sample-size-means.pptx](https://github.com/coltongearhart/elementary-stats/blob/main/slides/confidence-intervals-and-sample-size-means.pptx)
 
 <embed src="slides/confidence-intervals-and-sample-size-means.pdf" type="application/pdf" width="100%" height="500px"></embed>
 

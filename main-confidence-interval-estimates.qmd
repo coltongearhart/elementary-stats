@@ -2,13 +2,13 @@
 
 ## Confidence Intervals -- Introduction and Proportions
 
-FILE: [confidence-intervals-intro-and-proportions.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/confidence-intervals-intro-and-proportions.pptx)
+FILE: [confidence-intervals-intro-and-proportions.pptx](https://github.com/coltongearhart/elementary-stats/blob/main/slides/confidence-intervals-intro-and-proportions.pptx)
 
 <embed src="slides/confidence-intervals-intro-and-proportions.pdf" type="application/pdf" width="100%" height="500px"></embed>
 
 ## Confidence Intervals -- Means
 
-FILE: [confidence-intervals-means.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/confidence-intervals-means.pptx)
+FILE: [confidence-intervals-means.pptx](https://github.com/coltongearhart/elementary-stats/blob/main/slides/confidence-intervals-means.pptx)
 
 <embed src="slides/confidence-intervals-means.pdf" type="application/pdf" width="100%" height="500px"></embed>
 

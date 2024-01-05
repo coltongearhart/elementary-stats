@@ -2,7 +2,7 @@
 
 ## Forecasting
 
-FILE: [forecasting.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/forecasting.pptx)
+FILE: [forecasting.pptx](https://github.com/coltongearhart/elementary-stats/blob/main/slides/forecasting.pptx)
 
 <embed src="slides/forecasting.pdf" type="application/pdf" width="100%" height="500px"></embed>
 

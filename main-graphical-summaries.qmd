@@ -2,19 +2,19 @@
 
 ## Graphical Summareis -- Quantitative Data
 
-FILE: [graphical-summaries-quantitative-data.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/graphical-summaries-quantitative-data.pptx)
+FILE: [graphical-summaries-quantitative-data.pptx](https://github.com/coltongearhart/elementary-stats/blob/main/slides/graphical-summaries-quantitative-data.pptx)
 
 <embed src="slides/graphical-summaries-quantitative-data.pdf" type="application/pdf" width="100%" height="500px"></embed>
 
 ## Graphical Summareis -- Qualitative Data
 
-FILE: [graphical-summaries-qualitative-data.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/graphical-summaries-qualitative-data.pptx)
+FILE: [graphical-summaries-qualitative-data.pptx](https://github.com/coltongearhart/elementary-stats/blob/main/slides/graphical-summaries-qualitative-data.pptx)
 
 <embed src="slides/graphical-summaries-qualitative-data.pdf" type="application/pdf" width="100%" height="500px"></embed>
 
 ## Entering Data and Boxplots
 
-FILE: [entering-data-and-boxplots.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/graphical-summaries-qualitative-data.pptx)
+FILE: [entering-data-and-boxplots.pptx](https://github.com/coltongearhart/elementary-stats/blob/main/slides/graphical-summaries-qualitative-data.pptx)
 
 <embed src="slides/entering-data-and-boxplots.pdf" type="application/pdf" width="100%" height="500px"></embed>
 

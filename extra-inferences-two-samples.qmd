@@ -2,13 +2,13 @@
 
 ## Inferences from Two Samples
 
-FILE: [inferences-two-samples.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/inferences-two-samples.pptx)
+FILE: [inferences-two-samples.pptx](https://github.com/coltongearhart/elementary-stats/blob/main/slides/inferences-two-samples.pptx)
 
 <embed src="slides/inferences-two-samples.pdf" type="application/pdf" width="100%" height="500px"></embed>
 
 ## Inferences Dependent Samples
 
-FILE: [inferences-dependent-samples.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/inferences-dependent-samples.pptx)
+FILE: [inferences-dependent-samples.pptx](https://github.com/coltongearhart/elementary-stats/blob/main/slides/inferences-dependent-samples.pptx)
 
 <embed src="slides/inferences-dependent-samples.pdf" type="application/pdf" width="100%" height="500px"></embed>
 

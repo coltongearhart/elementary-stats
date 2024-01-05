@@ -2,13 +2,13 @@
 
 ## Measures of Center
 
-FILE: [measures-of-center.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/measures-of-center.pptx)
+FILE: [measures-of-center.pptx](https://github.com/coltongearhart/elementary-stats/blob/main/slides/measures-of-center.pptx)
 
 <embed src="slides/measures-of-center.pdf" type="application/pdf" width="100%" height="500px"></embed>
 
 ## Measures of Variation and Relative Position
 
-FILE: [measures-of-variation-and-relative-position.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/measures-of-variation-and-relative-position.pptx)
+FILE: [measures-of-variation-and-relative-position.pptx](https://github.com/coltongearhart/elementary-stats/blob/main/slides/measures-of-variation-and-relative-position.pptx)
 
 <embed src="slides/measures-of-variation-and-relative-position.pdf" type="application/pdf" width="100%" height="500px"></embed>
 

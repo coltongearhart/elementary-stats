@@ -2,13 +2,13 @@
 
 ## Hypothesis Testing -- Introduction and Proportions
 
-FILE: [hypothesis-testing-intro-and-proportions-2.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/hypothesis-testing-intro-and-proportions-2.pptx)
+FILE: [hypothesis-testing-intro-and-proportions-2.pptx](https://github.com/coltongearhart/elementary-stats/blob/main/slides/hypothesis-testing-intro-and-proportions-2.pptx)
 
 <embed src="slides/hypothesis-testing-intro-and-proportions-2.pdf" type="application/pdf" width="100%" height="500px"></embed>
 
 ## Hypothesis Testing -- Means
 
-FILE: [hypothesis-testing-means-2.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/hypothesis-testing-means-2.pptx)
+FILE: [hypothesis-testing-means-2.pptx](https://github.com/coltongearhart/elementary-stats/blob/main/slides/hypothesis-testing-means-2.pptx)
 
 <embed src="slides/hypothesis-testing-means-2.pdf" type="application/pdf" width="100%" height="500px"></embed>
 

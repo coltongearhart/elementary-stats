@@ -2,6 +2,6 @@
 
 ## Experiments
 
-FILE: [experiments.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/experiments.pptx)
+FILE: [experiments.pptx](https://github.com/coltongearhart/elementary-stats/blob/main/slides/experiments.pptx)
 
 <embed src="slides/experiments.pdf" type="application/pdf" width="100%" height="500px"></embed>

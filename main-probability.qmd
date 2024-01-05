@@ -2,13 +2,13 @@
 
 ## Probability
 
-FILE: [probability.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/probability.pptx)
+FILE: [probability.pptx](https://github.com/coltongearhart/elementary-stats/blob/main/slides/probability.pptx)
 
 <embed src="slides/probability.pdf" type="application/pdf" width="100%" height="500px"></embed>
 
 ## Probability 2
 
-FILE: [probability-2.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/probability-2.pptx)
+FILE: [probability-2.pptx](https://github.com/coltongearhart/elementary-stats/blob/main/slides/probability-2.pptx)
 
 <embed src="slides/probability-2.pdf" type="application/pdf" width="100%" height="500px"></embed>
 

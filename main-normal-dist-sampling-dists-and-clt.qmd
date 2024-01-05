@@ -2,13 +2,13 @@
 
 ## Normal Distribution
 
-FILE: [normal-distribution.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/normal-distribution.pptx)
+FILE: [normal-distribution.pptx](https://github.com/coltongearhart/elementary-stats/blob/main/slides/normal-distribution.pptx)
 
 <embed src="slides/normal-distribution.pdf" type="application/pdf" width="100%" height="500px"></embed>
 
 ## Sampling Distributions and the CLT
 
-FILE: [sampling-distribution-and-clt.pptx](https://github.com/coltongearhart/dana320/blob/main/sampling-distribution-and-clt.pptx)
+FILE: [sampling-distribution-and-clt.pptx](https://github.com/coltongearhart/elementary-stats/blob/main/sampling-distribution-and-clt.pptx)
 
 <embed src="slides/sampling-distribution-and-clt.pdf" type="application/pdf" width="100%" height="500px"></embed>
 

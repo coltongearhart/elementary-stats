@@ -2,6 +2,6 @@
 
 ## Simulation
 
-FILE: [simulation.pptx](https://github.com/coltongearhart/dana320/blob/main/slides/simulation.pptx)
+FILE: [simulation.pptx](https://github.com/coltongearhart/elementary-stats/blob/main/slides/simulation.pptx)
 
 <embed src="slides/simulation.pdf" type="application/pdf" width="100%" height="500px"></embed>
